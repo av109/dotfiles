@@ -1,0 +1,14 @@
+/*configuration {
+	modes: "drun,window";
+	font: "JetBrainsMono NF Extra-Bold 12";
+
+	show-icons: true;
+	icon-theme: "Papirus";
+
+	drun-display-format: "{name}";
+	hover-select: true;
+	matching: "regex";
+
+	drun-use-desktop-cache: true;
+	drun-reload-desktop-cache: true;
+}*/
